@@ -22,4 +22,4 @@ By runing the test class, you will see the results for given text.
 
 ## Acknowledgments
 
-*[Mertiq](https://github.com/Mertiq)
+* [Mertiq](https://github.com/Mertiq)
