@@ -2,7 +2,7 @@
 
 The purpose of this project is using Linked List by reading a text. In this project I create my own linked list system and use it by reading a text.
 
-## Getting Started
+## How to test the program?
 
 Download all the files and run Test.java file in any Java IDE.
 
