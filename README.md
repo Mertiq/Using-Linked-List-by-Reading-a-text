@@ -18,7 +18,7 @@ By runing the test class, you will see the results for given text.
 
 ## Built With
 
-* [Java](www.java.com/) - Java
+* [Java](www.java.com/) - Used to code all things.
 
 ## Acknowledgments
 
