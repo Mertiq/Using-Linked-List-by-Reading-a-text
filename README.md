@@ -8,7 +8,7 @@ Download all the files and run Test.java file in any Java IDE.
 
 ### Prerequisites
 
-If you don't have any Java IDE, you can download [Netbeans](https://netbeans.org/downloads/8.2/rc/).
+If you don't have any Java IDE, you can download [Netbeans](https://netbeans.org/downloads/8.2/rc/) or use [this website](https://www.onlinegdb.com).
 
 ## Running the tests
 
